@@ -1,6 +1,8 @@
+```
    _   _           ___                  _         
   /_\ | |_____ __ | _ \___ _ _ ___ _  _| |__ _ ___
  / _ \| / -_) \ / |  _/ -_) '_/ _ \ || | / _` (_-<
 /_/ \_\_\___/_\_\ |_| \___|_| \___/\_,_|_\__,_/__/
+```
 
-  CS @ UCSB · LLM interpretability · driverless software
+CS @ UCSB · LLM interpretability · driverless software
