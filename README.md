@@ -8,4 +8,5 @@
 CS @ UCSB · LLM interpretability · driverless software
 
 Currently building a local-LLM inbox classifier and researching how LLMs represent concepts in Professor Ambuj Singh's lab.
+
 🌐 [alexanderperoulas.com](https://alexanderperoulas.com) · 💼 [LinkedIn](https://linkedin.com/in/alexander-peroulas)
